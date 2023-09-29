@@ -70,7 +70,7 @@ GitHub Profile: [mykytashch](https://github.com/mykytashch)
 1. **Создание новой ветки (branch)**
    - Перед тем как начать новую задачу, убедитесь, что вы находитесь в актуальной версии главной ветки (например, `main` или `master`).
      ```
-     git checkout master
+     git checkout main
      git pull
      ```
    - Создайте новую ветку, где `my-feature` - имя вашей ветки.
@@ -88,7 +88,7 @@ GitHub Profile: [mykytashch](https://github.com/mykytashch)
 3. **Обновление вашей ветки**
    - Чтобы ваши изменения не конфликтовали с основной веткой, время от времени подтягивайте обновления:
      ```
-     git pull origin master
+     git pull origin main
      ```
 
 4. **Отправка изменений на GitHub**
