@@ -2,6 +2,13 @@
 
 This monorepo houses the codebase for the Culinary Book project, a personal learning endeavor aimed at honing development skills. It is organized into frontend, backend, and shared packages.
 
+## Documentation
+
+- [API Documentation](./docs/API.md)
+- [Architecture Overview](./docs/ARCHITECTURE.md)
+- [Contributing Guide](./docs/CONTRIBUTING.md)
+- [User Guide](./docs/USER_GUIDE.md)
+
 ## Technologies Utilized
 
 - **Frontend:**
