@@ -4,6 +4,9 @@ This monorepo houses the codebase for the Culinary Book project, a personal lear
 
 ## Documentation
 
+
+- [order in which all files are created](./docs/document_completion_procedure.md)
+
 - [API Documentation](./docs/API.md)
 - [Architecture Overview](./docs/ARCHITECTURE.md)
 - [Contributing Guide](./docs/CONTRIBUTING.md)
