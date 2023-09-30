@@ -1,4 +1,4 @@
-package mykyagroup1id;
+package org.acme;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

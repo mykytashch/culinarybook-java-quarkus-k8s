@@ -1,4 +1,4 @@
-# mykytaartifactproject1
+# my-quarkus-project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -43,29 +43,14 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 ./mvnw package -Dnative -Dquarkus.native.container-build=true
 ```
 
-You can then execute your native executable with: `./target/mykytaartifactproject1-version0.1-runner`
+You can then execute your native executable with: `./target/my-quarkus-project-1.0.0-SNAPSHOT-runner`
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.
 
-## Related Guides
-
-- Hibernate ORM with Panache ([guide](https://quarkus.io/guides/hibernate-orm-panache)): Simplify your persistence code for Hibernate ORM via the active record or the repository pattern
-- JDBC Driver - PostgreSQL ([guide](https://quarkus.io/guides/datasource)): Connect to the PostgreSQL database via JDBC
-- RESTEasy Classic ([guide](https://quarkus.io/guides/resteasy)): REST endpoint framework implementing Jakarta REST and more
-
 ## Provided Code
 
-### Hibernate ORM
+### RESTEasy Reactive
 
-Create your first JPA entity
+Easily start your Reactive RESTful Web Services
 
-[Related guide section...](https://quarkus.io/guides/hibernate-orm)
-
-[Related Hibernate with Panache section...](https://quarkus.io/guides/hibernate-orm-panache)
-
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+[Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
