@@ -1,0 +1,38 @@
+# ------------------------
+# General
+# ------------------------
+.DS_Store
+*.log
+
+# IDEs and editors
+/.idea
+*.iml
+*.class
+*.swp
+*.swo
+*.bak
+
+# OS-specific
+*.swp
+*.swo
+*.bak
+.DS_Store
+
+# ------------------------
+# React-specific
+# ------------------------
+/packages/frontend/node_modules/
+/packages/frontend/build/
+/packages/frontend/.env.local
+/packages/frontend/.env.development.local
+/packages/frontend/.env.test.local
+/packages/frontend/.env.production.local
+/packages/frontend/npm-debug.log*
+/packages/frontend/yarn-debug.log*
+/packages/frontend/yarn-error.log*
+
+# ------------------------
+# Quarkus-specific
+# ------------------------
+/packages/backend/target/
+/packages/backend/bin/
