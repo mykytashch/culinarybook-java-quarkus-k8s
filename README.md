@@ -11,6 +11,7 @@ This monorepo houses the codebase for the Culinary Book project, a personal lear
 
 - [API Documentation](./docs/API.md)
 - [Architecture Overview](./docs/ARCHITECTURE.md)
+- [Tasks and employees](./docs/TASKSANDWORKERS.md)
 - [Contributing Guide](./docs/CONTRIBUTING.md)
 - [User Guide](./docs/USER_GUIDE.md)
 
