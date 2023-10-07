@@ -16,6 +16,8 @@ ReciPlethora - это онлайн-платформа для обмена рец
 - [Full User Story](./docs/USERSTORY.md)
 - [Contributing Guide](./docs/CONTRIBUTING.md)
 - [User Guide](./docs/USER_GUIDE.md)
+- [Endpoints](./docs/endpoints.md)
+
 
 ## Technologies Utilized
 
