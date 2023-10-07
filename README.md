@@ -113,7 +113,7 @@ GitHub Profile: [mykytashch](https://github.com/mykytashch)
 4. **Отправка изменений на GitHub**
    - Пушьте вашу ветку на GitHub:
      ```
-     git push -u origin my-feature
+     git push -u origin main
      ```
 
 5. **Создание Pull Request (PR)**
