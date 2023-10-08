@@ -1,7 +1,8 @@
 # Стадия сборки
 FROM node:14 AS build-stage
 WORKDIR /app
-COPY ./packages/frontend/package*.json ./
+COPY ./package*.json ./
+
 
 RUN npm install
 COPY . ./
