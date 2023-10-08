@@ -16,6 +16,15 @@
 Теперь у вас должен быть настроенный почтовый ящик на вашем домене через Plesk.
 
 
+Adding New Domain
+
+Select your domain name
+Registered domain name
+
+I already have a registered domain name
+Temporary domain name
+
+I don't have a registered domain name yet
 Registered domain name
 www. 
 mykyta.fun
@@ -32,7 +41,9 @@ System user credentials
 to access hosted files over FTP and SSH
 
 Username
-mykyta.fun_07yr81rj63rn
+mykyta.fun_1on7iuck8yr
 Password
-8RkLM9#le2
+5QUm21fQ_g
 
+
+Generate
