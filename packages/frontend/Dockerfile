@@ -3,7 +3,8 @@ FROM node:14 AS build-stage
 WORKDIR /app
 COPY packages/frontend/package*.json ./
 RUN npm install
-COPY ./packages/frontend/ ./
+COPY . ./
+
 RUN npm run build
 
 # Стадия продакшена
