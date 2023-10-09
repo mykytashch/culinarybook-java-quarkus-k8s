@@ -47,3 +47,15 @@ Password
 
 
 Generate
+
+
+### Шаги для устранения проблемы:
+
+1. **Перезапустите Webmin:**
+    ```bash
+    systemctl restart webmin
+    ```
+    После этого снова проверьте его статус:
+    ```bash
+    systemctl status webmin
+    ```
