@@ -18,3 +18,14 @@ GitHub / GitLab / Bitbucket: Хостинг для вашего репозито
 Jenkins / GitLab CI / GitHub Actions / Travis CI: При каждом push в ваш репозиторий, эти инструменты могут автоматически собирать ваше приложение, запускать тесты и проверять качество кода.
 3. Continuous Deployment (CD)
 Jenkins / GitLab CI / GitHub Actions / Spinnaker: После успешного прохождения всех тестов, ваше приложение автоматически деплоится в нужное окружение (разработка, стейджинг, продакшен).
+
+
+Сейчас мы может зайти на сервер через webmin
+
+
+System hostname debian (127.0.1.1) Operating system Debian Linux 11
+Webmin version 2103  Authentic theme version 21.07 
+Time on system Monday, October 9, 2023 6:31 PM Kernel and CPU Linux 5.10.0-26-cloud-amd64 on x86_64
+Processor information AMD EPYC-Milan Processor, 2 cores System uptime 22 hours, 04 minutes
+Running processes 66 CPU load averages 0.00 (1 min) 0.00 (5 mins) 0.00 (15 mins)
+Real memory 482.58 MiB used / 2.8 GiB cached / 3.8 GiB total Local disk space 
