@@ -13,4 +13,14 @@ github_pat_11A6Y3X5Q0wcm5mTXxb4xh_hWWJxiIHKL3bJTR0sHKqRQFicXrbamZqQwxt8KkCIuc4PO
 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
 
 
+<<<<<<< Updated upstream
 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
+=======
+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
+
+
+
+git remote set-url origin https://mykytashch:YOUR_TOKEN@github.com/mykytashch/culinarybook-java-quarkus-k8s-ReactFrontend.git
+
+git remote set-url origin https://mykytashch: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@github.com/mykytashch/culinarybook-java-quarkus-k8s-ReactFrontend.git
+>>>>>>> Stashed changes
