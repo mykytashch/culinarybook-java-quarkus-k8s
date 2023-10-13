@@ -20,8 +20,7 @@ ReciPlethora - это онлайн-платформа для обмена рец
 - [Interface](./docs/INTERFACEDEV.md)
 - [Data Base](./docs/DATABASESTRUCTURE.md)
 
-
-
+- [Instructions to connect to the server via SSH](./docs/Instructions_to_connect_to_the_server_via_SSH.md)
 
 ## Technologies Utilized
 
