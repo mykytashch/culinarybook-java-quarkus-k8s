@@ -10,6 +10,7 @@ ReciPlethora - это онлайн-платформа для обмена рец
 
 - [order in which all files are created](./docs/document_completion_procedure.md)
 
+- [Documentation](./docs/docks.md)
 - [API Documentation](./docs/API.md)
 - [Architecture Overview](./docs/ARCHITECTURE.md)
 - [Tasks and employees](./docs/TASKSANDWORKERS.md)
@@ -19,6 +20,8 @@ ReciPlethora - это онлайн-платформа для обмена рец
 - [Endpoints](./docs/endpoints.md)
 - [Interface](./docs/INTERFACEDEV.md)
 - [Data Base](./docs/DATABASESTRUCTURE.md)
+
+docks.md
 
 - [Instructions to connect to the server via SSH](./docs/Instructions_to_connect_to_the_server_via_SSH.md)
 
